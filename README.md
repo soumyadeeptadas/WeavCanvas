@@ -19,29 +19,24 @@ They can collaborate with others in real time even from different devices, as ou
 
 The Canvas will have 2 types of Canvas:
 
-Calligraphy and artist canvas with different brushes
-Kaleidoscope canvas which will allow creation of Symmetric and geometric designs with minimal or no skill.
+Calligraphy and artist canvas with different brushes <br />
+Kaleidoscope canvas which will allow creation of Symmetric and geometric designs with minimal or no skill. <br />
+
 This project adds to :
 
-Realtime Collaboration
-Design AI
-Easy communication while doing the work, instead of context switching
-Easy file management
-All in one experience
+Realtime Collaboration<br />
+Design AI<br />
+Easy communication while doing the work, instead of context switching<br />
+Easy file management<br />
+All in one experience<br />
 
 
 Tech stack used:
 
-NodeJs
-
-sockets
-
-p5.js
-
-Weavy file browser
-
-Webkit Speech Recognizer
-
-Text2Speech
-
-Express
+NodeJs <br />
+sockets <br />
+p5.js <br />
+Weavy file browser <br />
+Webkit Speech Recognizer <br />
+Text2Speech <br />
+Express <br />
