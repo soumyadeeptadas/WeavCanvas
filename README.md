@@ -25,7 +25,7 @@ This project adds to :
 
 Realtime Collaboration
 Design AI
-Easy communication while doing the work, instaed of context switching
+Easy communication while doing the work, instead of context switching
 Easy file management
 All in one experience
 
@@ -33,9 +33,15 @@ All in one experience
 Tech stack used:
 
 NodeJs
+
 sockets
+
 p5.js
+
 Weavy file browser
+
 Webkit Speech Recognizer
+
 Text2Speech
+
 Express
