@@ -33,15 +33,9 @@ All in one experience
 Tech stack used:
 
 NodeJs
-
 sockets
-
 p5.js
-
 Weavy file browser
-
 Webkit Speech Recognizer
-
 Text2Speech
-
 Express
