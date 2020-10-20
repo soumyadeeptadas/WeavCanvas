@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" author="Soumyadeepta Das"/>
+    <title>WeavCanvas by TrojanX</title>
+    <link rel="stylesheet" type="text/css" href="style.css" />  
+    <style>
+      
+      body {
+        display: block;
+        text-align: center;
+      }
+      
+      .content {
+        position: fixed;
+        bottom: 150px;
+        width: 100%;
+      }
+      
+      h2 {
+        padding-bottom: 30px;
+      }
+      
+      h2 a {
+        opacity: 0.8;
+      }
+      
+      p a {
+        font-size: 14px;
+        text-decoration: none;
+        opacity: 0.8;
+        transition: 0.3; 
+      }
+      
+      #myVideo {
+        right: 0;
+        bottom: 0;
+        width: 103%;
+        min-height: 60vh;
+        overflow: hidden;
+        object-fit: cover;
+        z-index: -99;
+        position: relative;
+        opacity: 0.4;
+      }
+    </style>
+  </head>
+  <script src="calligraphy.js"></script>
+  <body>
+    
+    
+            
+      
+    <video autoplay muted loop id="myVideo" width="800" height="600" name="Video Name" src="https://cdn.glitch.com/83ca1fc1-fa05-43cd-9f17-18522a86672b%2Frainbow.mov?v=1587431266673"></video>
+    
+    <div class="content">
+      
+      <!--<button id="discuss" onclick="window.open('discussionT2S.html')" >Discuss over speech or text!</button>-->
+      <h2>
+        <a href="index.html">
+          WeavCanvas<br>by TrojanX<br><p style="font-size: 15px;">(Soumyadeepta Das & Ananya Sajwan)</p>
+        </a>
+      </h2>
+      <br>
+       <center><a href="discussionT2S.html" target="_blank">Discuss Here! (speech and text supported)</a></center>
+      <br>
+      <!--
+      <p>
+        <button id="index-btn" onclick="location.href='calligraphy.html';">Launch</button>
+      </p>
+-->
+      
+      <div class="dropdown">
+      <div onclick="dropdownToggle()" class="dropbtn">select new canvas +</div>
+      <div id="ProjectDropdown" class="dropdown-content">
+        <a href="calligraphy.html">calligraphy</a>
+        <a href="rainbow-draw.html">kaleidoscope</a>
+        <a href="pixel-reveal.html">pixel reveal</a>
+      </div>
+    </div>
+    </div>
+      
+  </body>
+</html>
