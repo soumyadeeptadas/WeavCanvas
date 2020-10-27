@@ -4,6 +4,8 @@ Project Repository for Weavy Collaboration Hack 2020 Team TrojanX
 ### Team: TrojanX
 #### Members: Ananya Sajwan & Soumyadeepta Das
 
+#### Link to hosted web app: https://weavcanvas.glitch.me/
+
 #### how to launch app:
 1) cd into project directory
 2) in cmd run `npm install --save`
