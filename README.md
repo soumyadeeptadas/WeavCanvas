@@ -1,6 +1,7 @@
 # WeavCanvas
 Project Repository for Weavy Collaboration Hack 2020 Team TrojanX
 
+## Winning project 2nd: Weavy Collaboration Hack 2020
 ### Team: TrojanX
 #### Members: Ananya Sajwan & Soumyadeepta Das
 
